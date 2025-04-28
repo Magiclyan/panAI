@@ -49,6 +49,8 @@
 
 ## 📖 更新日志
 
+**2.0.3.1** 修改123云盘新域名匹配策略 By Magiclyan
+
 **v2.0.3** 添加对123云盘新域名 www.123865.com、www.123684.com 分享链接的支持。 By Magiclyan
 
 **v2.0.2** CDN 从 registry.npmmirror.com 还原为 unpkg.comv2.0.2 CDN 从 registry.npmmirror.com 还原为 unpkg.com
