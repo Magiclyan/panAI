@@ -35,10 +35,6 @@
 
 ![](https://pic.rmb.bdstatic.com/bjh/f3784d134bdbb6a78c5db0bb071fed298280.png)
 
-## 💽 安装地址
-
-- **[安装地址（推荐）](https://www.youxiaohou.com/tool/install-panai.html)**
-
 ## 📖 使用说明
 
 1. 鼠标选中含网盘链接的文字，被选中区域背景会变成蓝色（容错性很高，选多或选少了也可以智能识别😀）
@@ -48,6 +44,8 @@
 ![](https://pic.rmb.bdstatic.com/bjh/623aeea319185cc50289483a8614118b1805.png)
 
 ## 📖 更新日志
+
+**2.0.3.2** 优化123云盘新域名匹配策略 By Magiclyan
 
 **2.0.3.1** 修改123云盘新域名匹配策略 By Magiclyan
 
